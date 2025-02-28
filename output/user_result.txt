@@ -185,6 +185,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2140&tk=f6cc1e0a0e1a
 世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3042&tk=f6cc1e0a0e1a
 
+
 港澳台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
