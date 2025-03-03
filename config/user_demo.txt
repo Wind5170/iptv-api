@@ -122,7 +122,29 @@ RTHK-35
 粤语版电影三
 粤语极清电影
 
-香港台#genre#
+香港台测试,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$!白名单
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$!白名单
+凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv$!白名单
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$!白名单
+凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$!白名单
+中天新闻,http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8$!白名单
+中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$!白名单
+有线新闻,http://live4play.uk/livehttpplay?channel_id=20191$!白名单
+无线新闻,http://vallest.uk/livehttpplay?channel_id=20123$!白名单
+Now新闻,http://live4play.uk/livehttpplay?channel_id=20041$!白名单
+Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002$!白名单
+Now星影,http://hkenlive.uk/livehttpplay?channel_id=13003$!白名单
+Now英超粤语,http://hkenlive.uk/livehttpplay?channel_id=13007$!白名单
+Now英超直壹,http://hkenlive.uk/livehttpplay?channel_id=13011$!白名单
+Now英超直贰,http://hkenlive.uk/livehttpplay?channel_id=13012$!白名单
+Now英超直叁,http://hkenlive.uk/livehttpplay?channel_id=13008$!白名单
+Now英超直肆,http://hkenlive.uk/livehttpplay?channel_id=13009$!白名单
+Now英超体壹,http://hkenlive.uk/livehttpplay?channel_id=13010$!白名单
+Now英超体贰,http://hkenlive.uk/livehttpplay?channel_id=13025$!白名单
+pₒₚc电影,http://go1.bkpcp.top/tl/popc$!白名单
+
+香港台,#genre#
 凤凰中文
 凤凰资讯
 凤凰卫视
@@ -217,7 +239,7 @@ TVBS-新闻
 TW台视新闻
 星空卫视
 
-澳门台#genre#
+澳门台,#genre#
 澳视澳门
 澳门Mac
 澳门卫视
@@ -225,7 +247,7 @@ TW台视新闻
 澳视葡语
 澳门资讯
 
-台湾台#genre#
+台湾台,#genre#
 八大戏剧
 八大第一
 八大综合
