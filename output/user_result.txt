@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-28 21:37:23,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
+2025-03-03 17:37:23,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 📺央视频道,#genre#
 CCTV-1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
@@ -186,26 +186,26 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3042&tk=f6cc1e0a0e1a
 
 香港台测试,#genre#
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$!白名单
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$!白名单
-凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv$!白名单
-凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$!白名单
-凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$!白名单
-中天新闻,http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8$!白名单
-中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$!白名单
-有线新闻,http://live4play.uk/livehttpplay?channel_id=20191$!白名单
-无线新闻,http://vallest.uk/livehttpplay?channel_id=20123$!白名单
-Now新闻,http://live4play.uk/livehttpplay?channel_id=20041$!白名单
-Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002$!白名单
-Now星影,http://hkenlive.uk/livehttpplay?channel_id=13003$!白名单
-Now英超粤语,http://hkenlive.uk/livehttpplay?channel_id=13007$!白名单
-Now英超直壹,http://hkenlive.uk/livehttpplay?channel_id=13011$!白名单
-Now英超直贰,http://hkenlive.uk/livehttpplay?channel_id=13012$!白名单
-Now英超直叁,http://hkenlive.uk/livehttpplay?channel_id=13008$!白名单
-Now英超直肆,http://hkenlive.uk/livehttpplay?channel_id=13009$!白名单
-Now英超体壹,http://hkenlive.uk/livehttpplay?channel_id=13010$!白名单
-Now英超体贰,http://hkenlive.uk/livehttpplay?channel_id=13025$!白名单
-pₒₚc电影,http://go1.bkpcp.top/tl/popc$!白名单
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
+中天新闻,http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8
+中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
+有线新闻,http://live4play.uk/livehttpplay?channel_id=20191
+无线新闻,http://vallest.uk/livehttpplay?channel_id=20123
+Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
+Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002
+Now星影,http://hkenlive.uk/livehttpplay?channel_id=13003
+Now英超粤语,http://hkenlive.uk/livehttpplay?channel_id=13007
+Now英超直壹,http://hkenlive.uk/livehttpplay?channel_id=13011
+Now英超直贰,http://hkenlive.uk/livehttpplay?channel_id=13012
+Now英超直叁,http://hkenlive.uk/livehttpplay?channel_id=13008
+Now英超直肆,http://hkenlive.uk/livehttpplay?channel_id=13009
+Now英超体壹,http://hkenlive.uk/livehttpplay?channel_id=13010
+Now英超体贰,http://hkenlive.uk/livehttpplay?channel_id=13025
+pₒₚc电影,http://go1.bkpcp.top/tl/popc
 
 港澳台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
