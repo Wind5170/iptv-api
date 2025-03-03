@@ -594,6 +594,119 @@ Now英超体壹,http://hkenlive.uk/livehttpplay?channel_id=13010
 Now英超体贰,http://hkenlive.uk/livehttpplay?channel_id=13025
 pₒₚc电影,http://go1.bkpcp.top/tl/popc
 
+💝广港澳台,#genre#
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线华丽粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+无线直播,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
+无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+无线生活,https://tv.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
+无线生活,http://205.185.123.236:8899/tvb/shenghuo/stream.m3u8
+无线生活,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist.m3u8
+无线星河粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+无线星河国,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
+无线星河国,http://205.185.123.236:8899/tvb/xinghe/xinghe.m3u8
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+无线星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+千禧经典,https://tv.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
+千禧经典,http://205.185.123.236:8899/astro/qianxi/qianxi.m3u8
+千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
+千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+Now爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
+Now星影,http://205.185.123.236:8899/1/xingyingtai/xingying.m3u8
+美亚电影粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+天映马国,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
+家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
+影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
+RTHK-31,p3p://108.181.32.169:54829/64101f330006ab429853d45f7940453b
+RTHK-32,p3p://108.181.32.169:54829/641020b00001b8599859a360613572d7
+RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+澳门mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+民视闽南,rtmp://f13h.mine.nu/sat/tv051
+中视闽南,rtmp://f13h.mine.nu/sat/tv091
+华视闽南,rtmp://f13h.mine.nu/sat/tv111
+台视闽南,rtmp://f13h.mine.nu/sat/tv071
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森财经,http://103.193.151.158:8500/live.m3u8?c=6
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+Astv亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
+GBN新闻英,http://103.193.151.158:8500/live.m3u8?c=18
+NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
+tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+动物星球国,http://61.221.215.25:8800/hls/57/index.m3u8
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+DAZN体育壹,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育贰,rtmp://f13h.mine.nu/sat/tv741
+amc电影英,http://61.221.215.25:8800/hls/43/index.m3u8
+ASC搜索英,http://61.221.215.25:8800/hls/50/index.m3u8
+Diso综合英,http://61.221.215.25:8800/hls/1/index.m3u8
+momoTV,rtmp://f13h.mine.nu/sat/tv761
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+tvbs闽南,http://37.27.111.214:8080/live/23/hls.m3u8
+民视闽南,http://37.27.111.214:8080/live/6/hls.m3u8
+中视闽南,http://37.27.111.214:8080/live/7/hls.m3u8
+华视闽南,http://37.27.111.214:8080/live/8/hls.m3u8
+民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
+民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
+三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
+tvbs欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
+龙华洋片,http://37.27.111.214:8080/live/19/hls.m3u8
+猪哥亮歌厅国,http://37.27.111.214:8080/live/35/hls.m3u8
+亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
+HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
+TiTV原视,http://37.27.111.214:8080/live/2/hls.m3u8
+动画动漫,http://37.27.111.214:8080/live/57/hls.m3u8
+Nick动画壹,http://37.27.111.214:8080/live/12/hls.m3u8
+Nick动画贰,http://37.27.111.214:8080/live/22/hls.m3u8
+MoMo亲子国,http://37.27.111.214:8080/live/3/hls.m3u8
+博斯高球壹,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯运动壹,http://37.27.111.214:8080/live/14/hls.m3u8
+博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
+mTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
+探案电影,http://37.27.111.214:8080/live/11/hls.m3u8
+CINEMA-,http://37.27.111.214:8080/live/30/hls.m3u8
+TV5_MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
+BlOOm-BERg,http://37.27.111.214:8080/live/34/hls.m3u8
+DWnews,http://37.27.111.214:8080/live/46/hls.m3u8
+CNBc_英,http://37.27.111.214:8080/live/102/hls.m3u8
+互动英語,http://37.27.111.214:8080/live/54/hls.m3u8
+
+
 香港台,#genre#
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20
