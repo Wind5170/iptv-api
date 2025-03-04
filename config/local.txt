@@ -2,3 +2,10 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+
+无锡台,#genre#
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd$!白名单
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd$!白名单
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd$!白名单
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd$!白名单
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd$!白名单
