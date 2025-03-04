@@ -23,37 +23,38 @@ CETV4
 CETV5
 
 📺央视频道[咪咕],#genre#
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1$!白名单
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2$!白名单
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3$!白名单
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4$!白名单
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5$!白名单
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p$!白名单
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6$!白名单
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7$!白名单
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8$!白名单
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9$!白名单
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10$!白名单
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11$!白名单
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12$!白名单
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13$!白名单
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14$!白名单
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15$!白名单
-CCTV16,http://112.103.140.109:9003/hls/16/index.m3u8$!白名单
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17$!白名单
-CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$!白名单
-CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$!白名单
-家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy$!白名单
-东方影视,http://z.b.bkpcp.top/m.php?id=shys$!白名单
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws$!白名单
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws$!白名单
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws$!白名单
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$!白名单
-游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy$!白名单
-七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj$!白名单
-欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc$!白名单
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty$!白名单
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq$!白名单
+CCTV1
+CCTV2
+CCTV3
+CCTV4
+CCTV5
+CCTV5+
+CCTV6
+CCTV7
+CCTV8
+CCTV9
+CCTV10
+CCTV11
+CCTV12
+CCTV13
+CCTV14
+CCTV15
+CCTV16
+CCTV17
+CCTV4欧洲
+CCTV4美洲
+家庭影院
+东方影视
+陕西卫视
+江西卫视
+江苏卫视
+广东卫视
+游戏风云
+七彩戏剧
+欢笑剧场
+劲爆体育
+魅力足球
+
 
 💰央视付费频道,#genre#
 文化精品
@@ -334,13 +335,6 @@ Astro AEC
 纬来体育台
 
 ☘️江苏频道,#genre#
-南京信息,https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8$!白名单
-南京十八,https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8$!白名单
-南京娱乐,https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8$!白名单
-南京少儿,https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8$!白名单
-南京教科,https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8$!白名单
-南京新闻综合,https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8$!白名单
-南京生活,https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8$!白名单
 南京信息
 南京十八
 南京娱乐
@@ -354,8 +348,6 @@ Astro AEC
 无锡生活
 无锡经济
 无锡都市资讯
-宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd$!白名单
-宜兴紫砂,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8?zjiangsd$!白名单
 宜兴新闻
 宜兴紫砂
 东台综合
