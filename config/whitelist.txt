@@ -138,26 +138,26 @@ RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/s
 
 
 #咪咕频道
-CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV 4 中文国际·美洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV 4 中文国际·欧洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16 奥林匹克,http://z.b.bkpcp.top/m.php?id=cctv16
-CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV16,http://z.b.bkpcp.top/m.php?id=cctv16
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy

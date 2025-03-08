@@ -17,20 +17,12 @@ CCTV-14 少儿
 CCTV-15 音乐
 CCTV-16 奥林匹克
 CCTV-17 农业农村
-CCTV4o 欧洲
-CCTV4m 美洲
 CCTV4K
 CCTV8K
 CETV-1 综合教育
 CETV-2 空中课堂
 CETV-3 教育服务
 CETV-4 职业教育
-CGTN 英语
-CGTN 记录
-CGTN 俄语
-CGTN 法语
-CGTN 西语
-CGTN 阿语
 
 💰央视付费频道,#genre#
 兵器科技
