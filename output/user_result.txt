@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 🕘️更新时间,#genre#
-2025-03-10 12:24:16,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-03-12 12:24:16,http://z.b.bkpcp.top/m.php?id=cctv1
 
 CCTV1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV1 综合,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
