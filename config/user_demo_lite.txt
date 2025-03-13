@@ -1,28 +1,28 @@
 📺央视频道,#genre#
-CCTV1 综合
-CCTV2 财经
-CCTV3 综艺
-CCTV4 中文国际
-CCTV5 体育
-CCTV5+ 体育赛事
-CCTV6 电影
-CCTV7 国防军事
-CCTV8 电视剧
-CCTV9 纪录
-CCTV10 科教
-CCTV11 戏曲
-CCTV12 社会与法
-CCTV13 新闻
-CCTV14 少儿
-CCTV15 音乐
-CCTV16 奥林匹克
-CCTV17 农业农村
+CCTV1综合
+CCTV2财经
+CCTV3综艺
+CCTV4中文国际
+CCTV5体育
+CCTV5+体育赛事
+CCTV6电影
+CCTV7国防军事
+CCTV8电视剧
+CCTV9纪录
+CCTV10科教
+CCTV11戏曲
+CCTV12社会与法
+CCTV13新闻
+CCTV14少儿
+CCTV15音乐
+CCTV16奥林匹克
+CCTV17农业农村
 CCTV4K
 CCTV8K
-CETV1 综合教育
-CETV2 空中课堂
-CETV3 教育服务
-CETV4 职业教育
+CETV1综合教育
+CETV2空中课堂
+CETV3教育服务
+CETV4职业教育
 
 💰央视付费频道,#genre#
 兵器科技
@@ -78,44 +78,60 @@ CETV4 职业教育
 三沙卫视
 厦门卫视
 
+💝港澳财经,#genre#
+澳六图库1,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+澳六图库2,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+⑥香港21:30八五,rtmp://ccc.jihbcr.com/live/kkk
+@新熬21:31一三,https://play666.macau-lhc.live/live/mosixmark.flv
+@新熬21:31一七,https://play888.00853lhc.live/live/mosixmark.flv
+@新熬21:31三三,https://play888.00853lhc.live/live/mosixmark.flv?t=1710336821937
+@老熬21:32一二,https://vdm6-ali.oujinghb.com/live/2032-2.flv
+@老熬21:32采家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
+@老熬21:32一三,https://vdm6-ali.hrypl168.com/live/a6.flv
+@老熬21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
 
-香港台测试,#genre#
-凤凰中文台
-凤凰资讯台
+香港台-本地,#genre#
+凤凰中文
+凤凰资讯
 凤凰香港台
 香港卫视
-TVB翡翠台
-TVB翡翠台jade_twn
-TVB高清翡翠台
-TVB华丽翡翠台
-TVB华丽翡翠台Tvbjade
-TVB华丽翡翠台粤
-TVB明珠台
-TVB PLUS
 TVB J1
-TVB无线新闻台
-TVB娱乐新闻台
-TVB无线生活
-TVB无线功夫
+TVB PLUS
 TVB千禧经典台
-TVB星河
-TVB星河粤
+TVB无线生活
 TVB无线直播
-ViuTV
-Astro AOD
+TVB星河
+TVB星河2
+TVB星河粤
+翡翠台
+翡翠台-高清
+华丽翡翠台
+华丽翡翠台粤
+明珠台-英标
+明珠台-粤高
+无线翡翠台
+无线功夫
+无线明珠台
+无线新闻台
+无线新闻台-高清
+娱乐新闻台
 HOY76 国际财经台
 HOY77
-HOY78 资讯台
+ViuTV
 RTHK31
 RTHK32
 RTHK33
 RTHK34
 RTHK35
-环球电视
-美亚电影粤
-影迷电影
+Astro AOD
+美亚电影
+美亚电影-高清
+天映经典
+天映频道
+环球电视台
 
-香港台2,#genre#
+
+香港台-网络,#genre#
 凤凰中文
 凤凰资讯
 凤凰香港
@@ -188,29 +204,53 @@ VIUTV
 耀才财经频道
 影迷电影
 有线新闻
-有线新闻斯特
 
-
-澳门台,#genre#
+澳门台-本地,#genre#
+澳门Macau
+澳门莲花
 澳视澳门
+
+
+澳门台-网络,#genre#
+澳门MACAU
 澳门Mac
 澳门卫视
 澳门莲花
 澳视葡语
 澳门资讯
-
-澳门台2,#genre#
-澳门MACAU
-澳视葡文
 澳视体育
 澳视资讯
 澳视综艺
-澳视澳门
 澳亚卫视
 莲花卫视
+澳视澳门
+
+台湾台-本地,#genre#
+龙华电影
+龙华经典
+龙华卡通
+龙华偶像
+龙华日韩
+龙华戏剧
+中视
+华视
+民视
+台视
+东森超视
+纬来日本
+纬来体育
+纬来育乐
+AMC电影
+TVBS新闻台
+八大第一
+八大戏剧
+八大综合
+动物星球
+三立戏剧
+纬来精采
 
 
-台湾台,#genre#
+台湾台-1,#genre#
 八大戏剧
 八大第一
 八大综合
@@ -299,13 +339,6 @@ TechStorm
 TRACEURBAN
 TRACESPORTS
 TV5MONDESTYLE
-S
-S欢乐台
-S精采台
-S台剧台
-S新闻台
-S综艺台
-S闽南
 TVBS
 TVBS欢乐台
 TVBS精采台
@@ -1099,3 +1132,8 @@ BTV纪实
 2022年春晚
 2023年春晚
 2024年春晚
+
+💝福利频道,#genre#
+1338.hk,https://m1.m3u8111222333.com/G0130/e094/e094.m3u8
+av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
+mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635

@@ -1,21 +1,52 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather
-# http://ttkx.cc:55/lib/kx2024.txt
-https://ua.fongmi.eu.org/box.php?url=http://ttkx.cc:55/lib/kx2024.txt
+	https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+	https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+	https://ua.fongmi.eu.org/box.php?url=http://ttkx.cc:55/lib/kx2024.txt
+#	https://ua.fongmi.eu.org/box.php?url=http://rihou.cc:55/lib/kx2024.txt
+#	https://ua.fongmi.eu.org/box.php?url=http://kxrj.site:55/lib/kx2024.txt
+#	https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+	https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Gather
+#	https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Live
+#	https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/MyTV
+#	https://ua.fongmi.eu.org/box.php?url=https://tv.iill.top/m3u/Sport
+	https://ua.fongmi.eu.org/box.php?url=https://xn#dkw0c.v.nxog.top/m/tv
+	https://ua.fongmi.eu.org/box.php?url=http://我不是.摸鱼儿.com/live.php
+	https://ua.fongmi.eu.org/box.php?url=http://sinopacifichk.com/tv/live
+	http://175.178.251.183:6689/live.m3u
+#	http://175.178.251.183:6689/tv.txt
+#	https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u
+#	https://iptv-org.github.io/iptv/countries/hk.m3u
+#	https://iptv-org.github.io/iptv/countries/mo.m3u
+#	https://iptv-org.github.io/iptv/countries/tw.m3u
+#	https://iptv-org.github.io/iptv/languages/zho.m3u
+	https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+	https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+#	https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/MV.txt
+#	https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/oo.txt
+#	https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+#	https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+#	https://jsd.proxy.aks.moe/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/l.txt
+#	https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+	https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+#	https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/组播优选.txt
+#	https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/综合源.txt
+	https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/网络收集.txt
+#	https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+	https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+	https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+	https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+	https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+	https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+#	https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+#	https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+	https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+	https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+#	http://ww.zouming.com/ipv6.txt
+#	https://6758.kstore.space/666.txt
+#	https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
+#	https://raw.githubusercontent.com/Wind5170/iptv-api/master/output/result.txt
+	
+	https://ua.fongmi.eu.org/box.php?url=http://aktv.top/live.txt
+#	http://aktv.space/live.m3u
