@@ -149,6 +149,12 @@ Channel U,http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch3/AKTV.m3u8
 翡翠台 4K,http://aktv_stream1.m16tv.cfd/stream/tuntun/4k/AKTV.m3u8
 Disney Channel,http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
 Disney XD,http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
+Asian Action,http://aktv_stream1.m16tv.cfd/stream/astro_a1/asianaction/AKTV.m3u8
+Astro AEC,http://aktv_stream1.m16tv.cfd/stream/astro_a1/astroaec/AKTV.m3u8
+Celestial Movies,http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+Mediacorp Entertainment Chinese,http://aktv_stream1.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+TVB Jade,http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+TVB Xing He,http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 
 
 
